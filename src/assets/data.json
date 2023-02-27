@@ -1,0 +1,19 @@
+[
+  {
+    "coils": "All",
+    "state": "All",
+    "country": ["Mexico", "USA"],
+    "capacity": [3250, 6241],
+    "compartments": ["No Preference"],
+    "car_type": "COVERED HOPPERS",
+    "pressure": "All",
+    "gate_size": ["No Preference"],
+    "gate_type": ["No Preference"],
+    "insulation": "All",
+    "hatch_cover": ["Circular"],
+    "capacity_uom": "Cubic Feet",
+    "stencil_spec": "All",
+    "gross_rail_load": ["263000"],
+    "description_stcc": "ACID, LACTIC - 4932045"
+  }
+]

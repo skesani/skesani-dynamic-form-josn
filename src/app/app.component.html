@@ -1,0 +1,22 @@
+<form *ngIf="capabilityForm" [formGroup]="capabilityForm">
+  <div formArrayName="capabilities">
+    <div
+      *ngFor="
+        let capability of capabilityForm.controls['capabilities'].controls;
+        let i = index
+      "
+    >
+      <div [formGroupName]="i">
+        Insulation : <input type="text" formControlName="insulation" />
+        <br />
+        capacity_uom : <input type="text" formControlName="capacity_uom" />
+        <br />
+        gate_size : <input type="text" formControlName="gate_size" />
+        <br />
+        description_stcc:
+        <input type="text" formControlName="description_stcc" />
+        <br />
+      </div>
+    </div>
+  </div>
+</form>

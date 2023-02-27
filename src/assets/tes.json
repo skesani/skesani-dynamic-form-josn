@@ -1,0 +1,278 @@
+{
+  "user-profile": {
+    "date": "2023-02-27T15:32:59.863Z",
+    "userid": "0896d71b-cfa1-4d9e-9dcd-c9c67f52b597"
+  },
+  "lease-details": {
+    "preferred-lease-type": [
+      {
+        "id": 1,
+        "name": "No Preference"
+      }
+    ],
+    "preferred-lease-term": [
+      {
+        "id": 1,
+        "name": "3 years"
+      }
+    ],
+    "preferred-lease-term-other": "",
+    "min": 1,
+    "max": 1,
+    "city": "",
+    "state": "Baja California",
+    "country": "Mexico",
+    "preferred-rail-carrier": "CSX",
+    "preferred-rail-carrier-other": "",
+    "rail-service-type": {
+      "id": 1,
+      "name": "Manifest"
+    },
+    "leaseableDate": "2023-02-28T05:00:00.000Z",
+    "flexableDate": true,
+    "comments": "",
+    "trinSight": true,
+    "sds-available": "No",
+    "sds": [],
+    "isValid": true
+  },
+  "mechanical-options": {
+    "covered-hopper": {
+      "lining-requirements": [
+        {
+          "id": 2,
+          "name": "No Lining"
+        },
+        {
+          "id": 3,
+          "name": "Food Grade"
+        }
+      ],
+      "vibrator-brackets": {
+        "id": 2,
+        "name": "Yes"
+      },
+      "selected": false
+    },
+    "general-service": {
+      "air-valve-fitting": "",
+      "air-valve-type": "",
+      "bov-aux-valve": "",
+      "bov-detail": "",
+      "bov-gasket": "",
+      "device-settings": "",
+      "flange-gasket": "",
+      "interior-prep": "",
+      "interior_surface_prep": "",
+      "lining-type": "",
+      "liquid-valve-type": "",
+      "loading-type": "",
+      "manway-gasket": "",
+      "manway-type": "",
+      "need-sample_line": "",
+      "need-thermowell": "",
+      "nitrogen-psi": "",
+      "o-ring": "",
+      "oxygen-content": "",
+      "platform-reqs": "",
+      "special-reqs": "",
+      "unloading-type": "",
+      "selected": false
+    },
+    "pressure-tank": {
+      "device-settings": "",
+      "flange-gasket": "",
+      "interior-prep": "",
+      "need-sample-line": "",
+      "need-thermowell": "",
+      "nitrogen-psi": "",
+      "o-ring-required": "",
+      "oxygen-content": "",
+      "selected": false
+    },
+    "isValid": true
+  },
+  "selected-stcc": "ACID, LACTIC - 4932045",
+  "user-filter": {
+    "coils": "All",
+    "state": "All",
+    "country": ["Mexico", "USA"],
+    "capacity": [3250, 6241],
+    "compartments": ["No Preference"],
+    "car_type": "COVERED HOPPERS",
+    "pressure": "All",
+    "gate_size": ["No Preference"],
+    "gate_type": ["No Preference"],
+    "insulation": "All",
+    "hatch_cover": ["Circular"],
+    "capacity_uom": "Cubic Feet",
+    "stencil_spec": "All",
+    "gross_rail_load": ["263000"],
+    "description_stcc": "ACID, LACTIC - 4932045"
+  },
+  "selected-cars": [
+    {
+      "model_id": 1873,
+      "model_desc": "6150 PP 263",
+      "file_name": "1873.jpg",
+      "gross_rail_load": "263000",
+      "capacity_uom": "CUBIC FEET",
+      "capacity": 6150,
+      "gate_type": "Pneumatic",
+      "gate_size": "Not Specified",
+      "hatch_cover": "Circular",
+      "compartments": "Not Specified",
+      "stencil_spec": null,
+      "insulation": null,
+      "coils": null,
+      "pressure": 0,
+      "country": "USA",
+      "state": "AR",
+      "compliance_due": "Not Specified",
+      "count": 2,
+      "rate": null,
+      "rate2": null,
+      "display_location": "MULTI",
+      "aggregatedCars": [
+        {
+          "model_id": 1873,
+          "model_desc": "6150 PP 263",
+          "file_name": "1873.jpg",
+          "gross_rail_load": "263000",
+          "capacity_uom": "CUBIC FEET",
+          "capacity": 6150,
+          "gate_type": "Pneumatic",
+          "gate_size": "Not Specified",
+          "hatch_cover": "Circular",
+          "compartments": "Not Specified",
+          "stencil_spec": null,
+          "insulation": null,
+          "coils": null,
+          "pressure": 0,
+          "country": "USA",
+          "state": "AR",
+          "compliance_due": "Not Specified",
+          "count": 1,
+          "rate": null,
+          "rate2": null
+        },
+        {
+          "model_id": 1873,
+          "model_desc": "6150 PP 263",
+          "file_name": "1873.jpg",
+          "gross_rail_load": "263000",
+          "capacity_uom": "CUBIC FEET",
+          "capacity": 6150,
+          "gate_type": "Pneumatic",
+          "gate_size": "Not Specified",
+          "hatch_cover": "Circular",
+          "compartments": "Not Specified",
+          "stencil_spec": null,
+          "insulation": null,
+          "coils": null,
+          "pressure": 0,
+          "country": "USA",
+          "state": "TX",
+          "compliance_due": "Not Specified",
+          "count": 1,
+          "rate": null,
+          "rate2": null
+        }
+      ],
+      "aggregated": {
+        "aggregated_age_range": [
+          {
+            "model_id": 1873,
+            "model_desc": "6150 PP 263",
+            "gross_rail_load": "263000",
+            "capacity_uom": "CUBIC FEET",
+            "capacity": 6150,
+            "gate_type": "Pneumatic",
+            "gate_size": "Not Specified",
+            "hatch_cover": "Circular",
+            "compartments": "Not Specified",
+            "stencil_spec": null,
+            "insulation": null,
+            "coils": null,
+            "pressure": 0,
+            "country": "USA",
+            "state": "AR",
+            "compliance_due": "N/S",
+            "count": 1,
+            "age_0_5": 0,
+            "age_6_10": 0,
+            "age_11_15": 0,
+            "age_16_20": 0,
+            "age_21p": 1
+          },
+          {
+            "model_id": 1873,
+            "model_desc": "6150 PP 263",
+            "gross_rail_load": "263000",
+            "capacity_uom": "CUBIC FEET",
+            "capacity": 6150,
+            "gate_type": "Pneumatic",
+            "gate_size": "Not Specified",
+            "hatch_cover": "Circular",
+            "compartments": "Not Specified",
+            "stencil_spec": null,
+            "insulation": null,
+            "coils": null,
+            "pressure": 0,
+            "country": "USA",
+            "state": "TX",
+            "compliance_due": "N/S",
+            "count": 1,
+            "age_0_5": 0,
+            "age_6_10": 0,
+            "age_11_15": 0,
+            "age_16_20": 0,
+            "age_21p": 1
+          }
+        ],
+        "aggregated_compliance_due": [
+          {
+            "model_id": 1873,
+            "model_desc": "6150 PP 263",
+            "gross_rail_load": "263000",
+            "capacity_uom": "CUBIC FEET",
+            "capacity": 6150,
+            "gate_type": "Pneumatic",
+            "gate_size": "Not Specified",
+            "hatch_cover": "Circular",
+            "compartments": "Not Specified",
+            "stencil_spec": null,
+            "insulation": null,
+            "coils": null,
+            "pressure": 0,
+            "country": "USA",
+            "state": "AR",
+            "compliance_due": "N/S",
+            "count": 1
+          },
+          {
+            "model_id": 1873,
+            "model_desc": "6150 PP 263",
+            "gross_rail_load": "263000",
+            "capacity_uom": "CUBIC FEET",
+            "capacity": 6150,
+            "gate_type": "Pneumatic",
+            "gate_size": "Not Specified",
+            "hatch_cover": "Circular",
+            "compartments": "Not Specified",
+            "stencil_spec": null,
+            "insulation": null,
+            "coils": null,
+            "pressure": 0,
+            "country": "USA",
+            "state": "TX",
+            "compliance_due": "N/S",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ],
+  "selected-car-type": "covered-hopper",
+  "alternative-phone": "+1 (201)9707774"
+}
